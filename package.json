@@ -1,0 +1,23 @@
+{
+  "name": "projectDemainTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blueshu/projectDemainTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blueshu/projectDemainTest/issues"
+  },
+  "homepage": "https://github.com/blueshu/projectDemainTest#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
